@@ -1,0 +1,37 @@
+.crush{
+    text-align: center;
+    font-size:40px;
+    color: rgb(113, 35, 186);
+}
+       h1{
+            font-size:40px;
+        }
+        *{
+            background-color: rgb(17, 13, 50);
+        }
+
+img{
+    width: 400px;
+    margin:right 50%;
+}
+p{
+   color: rgb(170, 76, 204); text-align: center; 
+   text-align: center;
+   top: 40px;
+   transition: all;
+}
+h1{
+    color: rgb(126, 45, 184); text-align: center;
+}
+div{
+  color: rgb(126, 45, 184) ;
+  font-size: 20px;
+}
+form{
+    text-align: center;
+  color: rgb(126, 45, 184) ;
+}
+a{
+font-size: 30px;
+text-align: center;
+}
